@@ -1,0 +1,7 @@
+you have to first Download some big Datasets to start work 
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia -kaggle dataset
+https://github.com/ieee8023/covid-chestxray-dataset -With this we will start preprocessing so this is must to download
+
+During preprocessing we will make some new folder and store the images into it 
+After that in second step we will work with custom dataset prepared by Coding Block to train the model
+http://cb.lk/covid_19 to get the dataset to train your model and get your model and weights saved so that you can deploy it on web
